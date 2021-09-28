@@ -1,4 +1,2 @@
 # Must be in alphabetical order!
 kexin-tang0615
-Liu-ST
-lyn
