@@ -1,5 +1,3 @@
 # Must be in alphabetical order!
 
 anyumeng
-Liu-ST
-lyn
